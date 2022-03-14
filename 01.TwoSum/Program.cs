@@ -23,7 +23,7 @@ namespace TwoSum
             int target = 9;
 
             Console.WriteLine(string.Join(',', TwoSum(nums, target)));
-            Console.WriteLine("第一课 TwoSum");
+            Console.WriteLine("01.TwoSum");
         }
 
 
